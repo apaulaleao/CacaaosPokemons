@@ -1,0 +1,15 @@
+.barra{
+    background-color: #fff;
+    display:flex;
+    align-items: center;]
+    justify-content:space-between;
+
+}
+
+.barra__titulo{
+    padding: 0.5 1rem;
+}
+
+.barra__form{
+    padding: 0 1rem;
+}
